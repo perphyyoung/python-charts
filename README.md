@@ -3,7 +3,14 @@
 ## 项目介绍
 参考[6 Visual Charts Drawn in Python](https://www.tutorialdocs.com/article/python-chart.html)，使用 matplotlib/2d 和 mpl_toolkits/3d 绘制6种基本的图表。
 
-## 基本图表
+## 目录
+[1. Line Charts](#1-line-charts)  
+[2. Scatter Plots](#2-scatter-plots)  
+[3. Histograms](#3-histograms)  
+[4. Bar Charts](#4-bar-charts)  
+[5. Pie Charts](#5-pie-charts)  
+[6. 3D Charts](#6-3d-charts)
+
 ### 1. Line Charts
 ![Line Charts](images/line.png)
 
